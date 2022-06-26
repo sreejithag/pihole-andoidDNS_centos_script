@@ -4,8 +4,8 @@ To install pihole with android private DNS in cent os 8
 
 Run the script as super user 
 
-sudo su
-curl -sSL https://bit.ly/3OKDGXM | bash
+1. sudo su
+2. curl -sSL https://bit.ly/3OKDGXM | bash
 
 Important 
 Don't install lighttpd web server while pihole installtion 
